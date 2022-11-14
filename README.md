@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A junior backend developer from Sweden
+  Backend developer from Sweden
 </p>
 
 <p align='center'>
